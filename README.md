@@ -19,3 +19,5 @@ This site focuses on his current music and promotional outreach materials. I tol
 - A forum/posting board with an admin approval process in case comments get rude.
 - Schedule of upcoming performances
 - Bio, band members bios (and links to other band members websites if they have them)
+
+[GNU GENERAL PUBLIC LICENSE](https://github.com/forrestfiller/Nam/blob/master/LICENSE.txt)
