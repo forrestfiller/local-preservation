@@ -5,9 +5,9 @@ A Website for Nam
 
 Nam is a longtime friend. He's a hyper-talented artist, who has worked successfully on so many mediums, from documentaries, to mural paintings to making music.
 
- 	- [Soundcloud]('https://soundcloud.com/user-904682438')
+[Soundcloud](https://soundcloud.com/user-904682438)
 
- 	- [Bandcamp]('https://namwayne.bandcamp.com/releases')
+[Bandcamp](https://namwayne.bandcamp.com/releases)
 
 This site focuses on his current music and promotional outreach materials. I told him I'd bake him a site that would be free, late, and low-quality. I'm actually going to make him a nice site, but just in case, it's important to manage everyone's expectations and keep friendships intact.
 
