@@ -19,7 +19,8 @@
 							<li>
 								<a href="/" class="icon fa-angle-down">Meet Nam</a>
 								<ul>
-									<li><a href="/">New Music</a></li>
+									<!-- /public/images/starwars.jpg -->
+									<li><a href="/api/starwars">New Music</a></li>
 									<li><a href="/">Fresh Upcoming Shows</a></li>
 									<li><a href="/">Hot Links</a></li>
 
