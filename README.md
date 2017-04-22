@@ -11,6 +11,8 @@ Nam is a longtime friend. He's a hyper-talented artist, who has worked successfu
 
 This site focuses on his current music and promotional outreach materials. I told him I'd bake him a site that would be free, late, and low-quality. I'm actually going to make him a nice site, but just in case, it's important to manage everyone's expectations and keep friendships intact.
 
+Currently the site is hosted [here at Heroku](https://nam-wayne.herokuapp.com/) during testing and the build out. It's got a bit of a slow first load, as the free tier I enjoy at Heroku puts my apps to sleep until that first `get request`. After that initial load it should be pretty good.
+
 ### Project Goals
 
 - Have a landing/splash page for him to direct social media, share content, and more to supporters
