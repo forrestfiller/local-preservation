@@ -20,15 +20,13 @@
 								<a href="/" class="icon fa-angle-down">Meet Nam</a>
 								<ul>
 									<!-- /public/images/starwars.jpg -->
-									<li><a href="/api/starwars">New Music</a></li>
-									<li><a href="/">Fresh Upcoming Shows</a></li>
-									<li><a href="/">Hot Links</a></li>
-
+									<li><a href="/api/nam-wayne-storm-trooper-suit">Nam</a></li>
+									<li><a href="/">Shows</a></li>
 									<li>
-										<a href="#">I'm Lost</a>
+										<a href="#">Hold Me</a>
 										<ul>
-											<li><a href="#">Help Me</a></li>
-											<li><a href="#">All Is Lost</a></li>
+											<li><a href="#">Eat Me</a></li>
+											<li><a href="#">Drink Me</a></li>
 										</ul>
 									</li>
 
@@ -147,10 +145,10 @@
 
 				<footer id="footer">
 					<ul class="icons">
-						<li><a href="https://twitter.com/NamWayne1" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-						<li><a href="https://www.facebook.com/www.namwayne4444com/#," class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-						<li><a href="https://soundcloud.com/user-904682438" class="icon fa-instagram"><span class="label">Soundcloud</span></a></li>
-						<li><a href="https://namwayne.bandcamp.com/releases" class="icon fa-github"><span class="label">Bandcamp</span></a></li>
+						<li><a target="_blank" href="https://twitter.com/NamWayne1" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a target="_blank" href="https://www.facebook.com/www.namwayne4444com/#," class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a target="_blank" href="https://soundcloud.com/user-904682438" class="icon fa-instagram"><span class="label">Soundcloud</span></a></li>
+						<li><a target="_blank" href="https://namwayne.bandcamp.com/releases" class="icon fa-github"><span class="label">Bandcamp</span></a></li>
 					</ul>
 				</footer>
 
