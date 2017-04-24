@@ -13,6 +13,8 @@ This site focuses on his current music and promotional outreach materials. I tol
 
 Currently the site is hosted [here at Heroku](https://nam-wayne.herokuapp.com/) during testing and the build out. It's got a bit of a slow first load, as the free tier I enjoy at Heroku puts my apps to sleep until that first `get request`. After that initial load it should be pretty good.
 
+1. Initially I just set up a page with a `node.js` backend and `index.html` view being rendered. Now that Nam has had a chance to look at that, and is ok with everything, I started up another branch called `react` where I am beginning to wire up the react entry point and directory skeleton to begin the project in ernest. I will merge the `react` branch into `master` once it is up and running. 
+
 ### Project Goals
 
 - Have a landing/splash page for him to direct social media, share content, and more to supporters
