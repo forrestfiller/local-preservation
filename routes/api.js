@@ -5,7 +5,7 @@ router.get('/:resource', function(req, res, next) {
 	var resource = req.params.resource
 
 	if(resource == 'nam-wayne-storm-trooper-suit'){
-		// console.log('nam?  ')
+		console.log('nam?  ')
 		// res.json({
 		// 	confirmation: 'success',
 		// 	resource: resource
