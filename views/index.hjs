@@ -2,7 +2,7 @@
 <html>
 
 	<head>
-		<title>Nam Wayne</title>
+		<title>Local Preservation Construction</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="/assets/css/main.css" />
@@ -12,22 +12,17 @@
 		<div id="page-wrapper">
 
 				<header id="header" class="alt">
-					<h1><a href="/">Nam Wayne</a></h1>
+					<h1><a href="/">Local Preservation and Construction</a></h1>
 					<nav id="nav">
 						<ul>
-							<li><a href="/">Home</a></li>
 							<li>
-								<a href="/" class="icon fa-angle-down">Meet Nam</a>
+								<a href="/" class="icon fa-angle-down">Services</a>
 								<ul>
 									<!-- /public/images/starwars.jpg -->
-									<li><a href="/api/nam-wayne-storm-trooper-suit">Nam</a></li>
-									<li><a href="/">Shows</a></li>
+									<li><a href="/api/nam-wayne-storm-trooper-suit">Historic Preservation</a></li>
+									<li><a href="/">Construction</a></li>
 									<li>
-										<a href="#">Hold Me</a>
-										<ul>
-											<li><a href="#">Eat Me</a></li>
-											<li><a href="#">Drink Me</a></li>
-										</ul>
+										<a href="#">Specialty Contracting</a>
 									</li>
 
 								</ul>
