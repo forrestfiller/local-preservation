@@ -2,7 +2,7 @@
 <html>
 
 	<head>
-		<title>Martha's Vineyard</title>
+		<title>Martha's Vineyard LPC</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="/assets/css/main.css" />
@@ -12,34 +12,13 @@
 		<div id="page-wrapper">
 
 				<header id="header" class="alt">
-					<h1><a href="/">Home</a></h1>
+					<h1>Chilmark, Massachussets | (508)645-6733 | info@local-preservation.com</h1>
 					<nav id="nav">
-						<ul>
-							<li>
-								<a href="/" class="icon fa-angle-down">Services</a>
-								<ul>
-									<!-- /public/images/starwars.jpg -->
-									<li><a href="/api/nam-wayne-storm-trooper-suit">Historic Preservation</a></li>
-									<li><a href="/">Construction</a></li>
-									<li>
-										<a href="#">Specialty Contracting</a>
-									</li>
-
-								</ul>
-							</li>
-							<li><a href="#" class="button">Contact Us</a></li>
-						</ul>
-					</nav>
 				</header>
 
 				<section id="banner">
 					<h2>Local Preservation and Construction LLC</h2>
 					<p>The on-island historic preservation and modern building management contractor.</p>
-					<!-- <p>Check the shows, please.</p> -->
-					<!-- <ul class="actions">
-						<li><a href="#" class="button special">Sign Up</a></li>
-						<li><a target="_blank" href="https://en.wikipedia.org/wiki/Phenomenon" class="button">What is a Nam Wayne?</a></li>
-					</ul> -->
 				</section>
 
 				<section id="main" class="container">
@@ -65,7 +44,7 @@
 							<h2>Facilities Monitoring Services</h2>
 							<p>Engage with connected devices and LoRaWAN technology to reduce reaction time during incidents. <br/><br/>
 								Gain valuable insights into your energy usage and reduce facility costs.
-								<br/><br/>Get realtime notifications for conditions that are critical to your operations or collections.
+								<br/><br/>Develop systems with real-time notifications for conditions that are critical to your operations and collections.
 							</p>
 						</header>
 					</section>
