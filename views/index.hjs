@@ -27,14 +27,14 @@
 
 								</ul>
 							</li>
-							<li><a href="#" class="button">Not Sure Button</a></li>
+							<li><a href="#" class="button">Contact Us</a></li>
 						</ul>
 					</nav>
 				</header>
 
 				<section id="banner">
-					<h2>Local Preservation and Construction Services</h2>
-					<p>The island choice for architectural conservation, and skilled building services.</p>
+					<h2>Local Preservation and Construction LLC</h2>
+					<p>The on-island historic preservation and modern building management contractor.</p>
 					<!-- <p>Check the shows, please.</p> -->
 					<!-- <ul class="actions">
 						<li><a href="#" class="button special">Sign Up</a></li>
@@ -46,32 +46,46 @@
 
 					<section class="box special">
 						<header class="major">
-							<h2>Historic Preservation - Architectural Conservation</h2>
-							<p>From drafting Historic Structure Reports to developing custom construction specifications, work with us to maintain the island's cultural Fabric!
+							<h2>Historic Preservation Services</h2>
+							<p>Developing preservation documentation and developing specifications for repair. <br/><br/>Implementing and supervising  conservation treatments of island cultural herritage!
 							</p>
 						</header>
 					</section>
 
 					<section class="box special">
 						<header class="major">
-							<h2>Construction - Specialty Contracting</h2>
-								<p>Supervising projects and subcontractors with quality control, budget to self-performing niche commerical, residential, and institutional projects!</p>
+							<h2>Construction and Supervision Services</h2>
+								<p>Supervising and executing modern construction projects.<br/><br/> Driving quality control, schedule, cost-containment, schedule, and safety.</p>
 						</header>
-						<!-- <span class="image featured"><img src="/images/pic06.jpg" alt="" /></span> -->
+
 					</section>
 
+					<section class="box special">
+						<header class="major">
+							<h2>Facilities Monitoring Services</h2>
+							<p>Engage with connected devices and LoRaWAN technology to reduce reaction time during incidents. <br/><br/>
+								Gain valuable insights into your energy usage and reduce facility costs.
+								<br/><br/>Get realtime notifications for conditions that are critical to your operations or collections.
+							</p>
+						</header>
+					</section>
 
+					<section class="box special">
+						<header class="major">
+							<h2>Risk Management and Construction Safety Consulting</h2>
+							<p>Contain costs associated with insurance premiums and reduce your claims frequency and severity. <br/><br/>Leverage our consulting services from industry safety professionals! Enhance your program today!
+							</p>
+						</header>
+					</section>
 
 				</section>
 
 
 				<footer id="footer">
-					<ul class="icons">
-						<li><a target="_blank" href="https://twitter.com/NamWayne1" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-						<li><a target="_blank" href="https://www.facebook.com/www.namwayne4444com/#," class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-						<li><a target="_blank" href="https://soundcloud.com/user-904682438" class="icon fa-instagram"><span class="label">Soundcloud</span></a></li>
-						<li><a target="_blank" href="https://namwayne.bandcamp.com/releases" class="icon fa-github"><span class="label">Bandcamp</span></a></li>
-					</ul>
+					<h3>Local Preservation and Construction LLC</h3>
+						<br />
+					<p>Chilmark, Massachussets<br />
+					(508)645-6733<br />info@local-preservation.com</p>
 				</footer>
 
 		</div>

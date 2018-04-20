@@ -4,8 +4,8 @@ var favicon = require('serve-favicon');
 var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
-var mongoose = require('mongoose')
-require('dotenv').config()
+var mongoose = require('mongoose');
+require('dotenv').config();
 
 mongoose.connect(process.env.DB_URI, function(err, res){
 	if (err) {
@@ -17,7 +17,7 @@ mongoose.connect(process.env.DB_URI, function(err, res){
 
 
 var index = require('./routes/index');
-var api = require('./routes/api')
+var api = require('./routes/api');
 
 var app = express();
 
