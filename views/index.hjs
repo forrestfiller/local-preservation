@@ -11,6 +11,8 @@
 	[ {
 	  "@context" : "http://schema.org",
 	  "@type" : "LocalBusiness",
+		"name" : "Local Preservation and Construction LLC",
+		"image" : "https://local-preservation.com",
 	  "telephone" : "(508) 645-6733",
 	  "email" : "info@local-preservation.com",
 	  "address" : {
@@ -22,6 +24,7 @@
 	  "@context" : "http://schema.org",
 	  "@type" : "LocalBusiness",
 	  "name" : "Local Preservation and Construction LLC",
+		"image" : "https://local-preservation.com",
 	  "telephone" : "(508) 645-6733",
 	  "email" : "info@local-preservation.com",
 	  "address" : {
@@ -33,6 +36,7 @@
 	  "@context" : "http://schema.org",
 	  "@type" : "LocalBusiness",
 	  "name" : "Local Preservation and Construction LLC",
+		"image" : "https://local-preservation.com",
 	  "telephone" : "(508) 645-6733",
 	  "email" : "info@local-preservation.com",
 	  "address" : {
