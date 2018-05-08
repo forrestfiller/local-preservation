@@ -13,10 +13,13 @@
 		<div id="page-wrapper">
 
 				<header id="header" class="alt">
-					<h1>(508) 645-6733 | info@local-preservation.com</h1>
+					<h1><a href="/"><strong>Home</strong></a> | (508) 645-6733 | info@local-preservation.com</h1>
 				</header>
 
 				<section id="banner">
+					<h3><a href="/"><strong>Home</strong></a></h3>
+					<br />
+					<br />
 					<h2>Historic Preservation Services</h2>
 				</section>
 

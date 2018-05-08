@@ -64,9 +64,10 @@
 
 					<section class="box special">
 						<header class="major">
-							<a href='/api/historic-preservation'><h2>Historic Preservation Services</h2></a>
-							<p>Developing preservation documentation and specifications for repair. <br/><br/>Treatment of historic fabric and architectural materials.
-							</p>
+							<a href='/api/historic-preservation'><h2><strong>Historic Preservation Services</strong></h2></a>
+							<p>Developing preservation documentation and specifications</p>
+							<br />
+							<p>Treatment of historic fabric and architectural materials</p>
 						</header>
 					</section>
 
