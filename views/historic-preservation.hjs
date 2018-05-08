@@ -13,7 +13,7 @@
 		<div id="page-wrapper">
 
 				<header id="header" class="alt">
-					<h1>Chilmark, Massachusetts | (508) 645-6733 | info@local-preservation.com</h1>
+					<h1>(508) 645-6733 | info@local-preservation.com</h1>
 				</header>
 
 				<section id="banner">
@@ -24,12 +24,25 @@
 
 					<section class="box special">
 						<header class="major">
-							<a href="#"><h2>Historic Preservation Services</h2></a>
-							<p>Developing preservation documentation and specifications for repair. <br/><br/>Treatment of historic fabric and architectural materials.
-							</p>
+							<h2>Documentation</h2>
+							<p>Historic Structure Research</p>
+							<br />
+							<p>Assessement of existing conditions</p>
+							<br />
+							<p>Recommended Treatments</p>
 						</header>
 					</section>
 
+					<section class="box special">
+						<header class="major">
+							<h2>Treatment</h2>
+							<p>Minimally invasive conservation and restoration</p>
+							<br />
+							<p>Alterations to exisiting buildings that are sensitive and respectful to the history of the structure</p>
+							<br />
+							<p>Plaster, decorative and fine arts, wooden, masonry, metallic, and finishes restoration</p>
+						</header>
+					</section>
 				</section>
 
 
